@@ -1,0 +1,36 @@
+{
+  "files": [
+
+    {
+      "fileId": "1egXwuQUtr-AtQI5V_izzANkJqvv3INJwJg2ZL2IZI78",
+      "type": "sheet",
+      "name": "data"
+    },
+    {
+      "fileId": "1egXwuQUtr-AtQI5V_izzANkJqvv3INJwJg2ZL2IZI78",
+    "type": "sheet",
+    "name": "albums"
+    },
+    {
+      "fileId": "1egXwuQUtr-AtQI5V_izzANkJqvv3INJwJg2ZL2IZI78",
+    "type": "sheet",
+    "name": "tour"
+    }
+  ],
+  "to_bake": [
+    {
+      "template": "bake-members",
+      "data": "members",
+      "array": "members",
+      "slug": "slug",
+      "path": "members"
+    },
+    {
+      "template": "bake-tour2021",
+      "data": "tour2021",
+      "array": "tour2021",
+      "slug": "date",
+      "path": "tour2021"
+    }
+  ]
+}

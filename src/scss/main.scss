@@ -1,0 +1,101 @@
+// Custom variable overrides
+// See node_modules/bootstrap/scss/_variables.scss
+
+// $body-bg: black;
+// $body-color: white;
+// $link-hover-color: grey;
+// $font-family-sans-serif: "Helvetica Neue";
+
+/* bootstrap */
+// Option A: Include all of Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+
+
+// Option B: Include parts of Bootstrap
+// See https://getbootstrap.com/docs/4.1/getting-started/theming/#importing
+
+// Required
+// @import "../../node_modules/bootstrap/scss/functions";
+// @import "../../node_modules/bootstrap/scss/variables";
+// @import "../../node_modules/bootstrap/scss/mixins"; 
+
+// Import partials
+@import "nav";
+
+@import "jumbotron";
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  font-family: 'Texturina', serif;
+  margin-top: 25px;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+  font-family: 'Texturina', serif;
+  margin-bottom: 50px;
+}
+
+
+
+.row {
+  margin-top: auto;
+  text-align: center;
+}
+
+#tourLink {
+  color: blueviolet;
+  text-align: center;
+  font-family: 'Texturina', serif;
+  margin-bottom: 50px;
+}
+.link {
+  color: blueviolet;
+}
+
+.drow {
+  text-align: center;
+}
+
+.intros {
+  text-align: center;
+  color: blueviolet;
+  font-family: 'Texturina', serif;
+}
+
+.card-body {
+  color: blueviolet;
+  font-family: 'Texturina', serif;
+}
+
+.img-fluid {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.member-info {
+  font-family: 'Texturina', serif;
+}
+
+.bios {
+  font-family: 'Texturina', serif;
+}
