@@ -1,4 +1,4 @@
-# Movie List Creation
+# Seb's Movie List Creation
 
 The development concepts used are similar to rigs used by news graphics teams in newsrooms like NPR. Here, they are applied in the making of my personal movie list, recommended to anyone who wants to watch the 50 greatest movies of our time.
 
