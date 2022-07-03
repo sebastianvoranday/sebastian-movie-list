@@ -1,12 +1,13 @@
 /* jumbotron */
 
 .jumbotron.banner {
-  background: url(../inglouriousbasterds05.jpg) no-repeat center;
-  background-size: contain;
+  background: url(../img/inglouriousbasterds05.jpg) no-repeat center;
+  background-size: 100% auto;
   color: black;
-  padding-top: 30rem
+  padding-top: 10rem
 }
 
 .jumbotron {
-  margin-bottom: 5px;
+  margin-bottom: 15px;
+  margin-top: 0px;
 }
