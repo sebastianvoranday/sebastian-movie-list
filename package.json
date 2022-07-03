@@ -53,6 +53,7 @@
   "dependencies": {
     "bootstrap": "^4.6.1",
     "jquery": "^3.6.0",
-    "popper.js": "^1.16.0"
+    "popper.js": "^1.16.0",
+    "sass": "^1.53.0"
   }
 }
