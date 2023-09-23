@@ -1,6 +1,6 @@
-# Seb's Movie List Creation
+# Seb's Top 50 Movies of All Time
 
-The development concepts used are similar to rigs used by news graphics teams in newsrooms like NPR. Here, they are applied in the making of my personal movie list, recommended to anyone who wants to watch the 50 greatest movies of our time.
+I learned the development concepts used in this project during my time at UT Austin's Journalism School. Here,they are applied in the making of a movie list, recommended to anyone who wants to watch the 50 greatest movies of our time.
 
 ## Features
 
